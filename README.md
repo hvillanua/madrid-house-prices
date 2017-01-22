@@ -18,17 +18,17 @@ To plot personalized maps on Tableau these are the global steps:
 If you need to convert the shapefile from a geodetic reference system different to EPSG: 4326, WGS 84, here's how to:
 Download and install QGIS. On the left panel, click the Add Vector Layer icon.
 In the Add vector layer dialog box, do the following:
--Under Source type, click Directory.
--Under Source, click Browse, and then navigate to and select the folder containing the shapefile.
--Click Open.
+- Under Source type, click Directory.
+- Under Source, click Browse, and then navigate to and select the folder containing the shapefile.
+- Click Open.
 
 When opening the shapefile, it may ask for the input coordinate system. Select the appropriate one.
 If it doesn't appear, in the layers panel left click on the layer we just opened. Click on Establish layer SRC, select the appropriate input coordinate system and click OK.
 	
 Once it's opened, in the layers panel left click on the layer we just opened. Click on Save as... and do the following:
--Under Format, select ESRI shape file.
--Under File name, create an empty folder, navigate to it and write a name for the new shapefile.
--Under SRC, select EPSG:4326, WGS 84 and click OK.
+- Under Format, select ESRI shape file.
+- Under File name, create an empty folder, navigate to it and write a name for the new shapefile.
+- Under SRC, select EPSG:4326, WGS 84 and click OK.
 	
 The fastest way to create the csv file is to go to this link (https://gallery.alteryx.com/#!app/Tableau-Shapefile-to-Polygon-Converter/5296f89120aaf905b8e7fb48), click on Run and upload all the shape files in a single .zip (make sure the zip only contains the shapefiles, if you put them inside of a folder the upload will fail). Click on Run again and once it's finished select the csv output file and download it.
 Alternatively you can use the intructions given in this link (https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_shapefiles.html). A detailed explanation on how to create the number sequence for the path can be found at (https://community.tableau.com/docs/DOC-5831).
