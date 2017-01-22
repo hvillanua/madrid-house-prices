@@ -1,0 +1,2177 @@
+Country,City,District,Neighborhood,Neighborhood_lookup,Subdivision,Lat,Lon,Year,Price/m2
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2001,2610.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2001,2107.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2001,2611.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2001,2496.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2001,2317.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2001,2450.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2001,2264.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2001,2237.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2001,1939.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2001,2313.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2001,2254.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2001,
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2001,2312.0
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2001,2458.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2001,2435.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2001,2485.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2001,2726.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2001,3442.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2001,3084.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2001,3423.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2001,2962.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2001,2527.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2001,2507.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2001,3019.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2001,4202.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2001,3814.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2001,2702.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2001,2547.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2001,3198.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2001,3467.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2001,2848.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2001,2091.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2001,2864.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2001,2931.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2001,2268.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2001,2200.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2001,2168.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2001,2583.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2001,2668.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2001,2920.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2001,3308.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2001,2939.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2001,3016.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2001,2552.0
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2001,2499.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2001,2086.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2001,2198.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2001,2617.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2001,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2001,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2001,2681.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2001,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2001,2559.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2001,2849.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2001,2403.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2001,2313.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2001,3106.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2001,1999.0
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2001,2003.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2001,1709.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2001,1713.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2001,1801.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2001,1610.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2001,1615.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2001,1710.0
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2001,1788.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2001,1761.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2001,1626.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2001,1721.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2001,1812.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2001,1664.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2001,1606.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2001,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2001,1719.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2001,1298.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2001,1745.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2001,1576.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2001,1696.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2001,1636.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2001,1654.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2001,1690.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2001,1170.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2001,1766.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2001,1699.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2001,1645.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2001,1513.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2001,1901.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2001,1914.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2001,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2001,2187.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2001,1975.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2001,1904.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2001,1952.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2001,1947.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2001,2026.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2001,2344.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2001,2477.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2001,2788.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2001,2894.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2001,2761.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2001,2961.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2001,2751.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2001,2507.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2001,2796.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2001,2290.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2001,2207.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2001,1989.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2001,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2001,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2001,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2001,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2001,1468.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2001,1159.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2001,1347.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2001,1450.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2001,1476.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2001,1546.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2001,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2001,1654.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2001,2011.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2001,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2001,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2001,1618.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2001,2152.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2001,1613.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2001,1645.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2001,1601.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2001,2134.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2001,1525.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2001,1849.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2001,2305.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2001,1995.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2001,1110.0
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2001,2581.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2001,2254.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2001,1927.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2002,3279.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2002,2715.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2002,3070.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2002,3103.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2002,2870.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2002,3108.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2002,2934.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2002,2993.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2002,2576.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2002,2714.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2002,3008.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2002,2783.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2002,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2002,3134.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2002,2709.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2002,2937.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2002,3374.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2002,4640.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2002,3879.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2002,4369.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2002,3801.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2002,3185.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2002,3116.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2002,3898.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2002,4452.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2002,4328.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2002,3401.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2002,3382.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2002,3982.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2002,4264.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2002,3160.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2002,2821.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2002,3621.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2002,3576.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2002,3023.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2002,2814.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2002,2877.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2002,3285.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2002,3498.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2002,3511.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2002,4247.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2002,3678.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2002,3191.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2002,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2002,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2002,2401.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2002,2944.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2002,3101.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2002,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2002,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2002,3268.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2002,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2002,3100.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2002,3640.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2002,2687.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2002,2808.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2002,3524.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2002,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2002,2320.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2002,2332.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2002,2238.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2002,2238.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2002,2426.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2002,2270.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2002,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2002,2367.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2002,2405.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2002,2262.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2002,2067.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2002,2226.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2002,2106.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2002,2127.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2002,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2002,2150.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2002,
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2002,2257.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2002,2162.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2002,2176.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2002,2159.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2002,1819.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2002,2221.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2002,1770.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2002,2146.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2002,2100.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2002,1960.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2002,1595.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2002,2242.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2002,2157.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2002,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2002,2710.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2002,2563.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2002,2622.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2002,2332.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2002,2557.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2002,2476.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2002,2488.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2002,3451.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2002,3115.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2002,3583.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2002,3545.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2002,4062.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2002,3429.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2002,2839.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2002,3273.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2002,2584.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2002,2745.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2002,2622.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2002,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2002,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2002,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2002,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2002,1922.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2002,1750.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2002,1547.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2002,2060.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2002,1959.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2002,2024.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2002,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2002,1916.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2002,2160.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2002,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2002,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2002,1958.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2002,2768.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2002,2306.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2002,1810.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2002,2189.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2002,2949.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2002,2251.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2002,2132.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2002,2898.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2002,2559.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2002,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2002,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2002,3019.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2002,3054.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2003,3605.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2003,3022.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2003,3683.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2003,3736.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2003,3352.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2003,3502.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2003,3591.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2003,3506.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2003,3222.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2003,3320.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2003,3279.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2003,3297.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2003,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2003,3774.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2003,3561.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2003,3280.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2003,4201.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2003,4665.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2003,4025.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2003,5584.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2003,4194.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2003,3751.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2003,3575.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2003,4192.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2003,4983.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2003,4432.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2003,3720.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2003,3827.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2003,4462.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2003,5003.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2003,3806.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2003,3210.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2003,3851.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2003,3943.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2003,3382.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2003,3257.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2003,3208.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2003,4046.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2003,4010.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2003,4107.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2003,5057.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2003,4297.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2003,4201.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2003,2171.0
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2003,2574.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2003,3135.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2003,3399.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2003,3550.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2003,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2003,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2003,3633.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2003,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2003,3461.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2003,3889.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2003,3529.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2003,3206.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2003,3799.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2003,2685.0
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2003,2920.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2003,2850.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2003,2681.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2003,2631.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2003,2585.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2003,2806.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2003,3118.0
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2003,2750.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2003,2643.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2003,2749.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2003,2549.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2003,2675.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2003,2491.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2003,2728.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2003,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2003,2703.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2003,2313.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2003,2656.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2003,2492.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2003,2699.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2003,2734.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2003,2725.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2003,2576.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2003,2274.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2003,2694.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2003,2507.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2003,2550.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2003,2275.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2003,2725.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2003,2575.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2003,3592.0
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2003,3293.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2003,2908.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2003,2670.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2003,2787.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2003,3059.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2003,2987.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2003,3371.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2003,3939.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2003,3327.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2003,4042.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2003,4165.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2003,4127.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2003,3624.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2003,3672.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2003,4706.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2003,3117.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2003,3005.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2003,2735.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2003,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2003,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2003,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2003,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2003,2239.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2003,2119.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2003,
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2003,2310.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2003,2314.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2003,2592.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2003,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2003,2498.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2003,2977.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2003,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2003,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2003,
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2003,3043.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2003,2479.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2003,2558.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2003,2719.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2003,3307.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2003,3140.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2003,2469.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2003,3386.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2003,2812.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2003,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2003,2865.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2003,2908.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2003,3685.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2004,4128.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2004,3401.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2004,4107.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2004,4151.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2004,3857.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2004,4029.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2004,3507.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2004,3793.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2004,3434.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2004,3714.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2004,3751.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2004,3497.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2004,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2004,3853.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2004,3669.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2004,3815.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2004,4515.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2004,4595.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2004,4583.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2004,5543.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2004,4705.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2004,4055.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2004,3795.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2004,4682.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2004,5376.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2004,5173.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2004,3869.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2004,4009.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2004,4852.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2004,4935.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2004,4076.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2004,3523.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2004,4152.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2004,4412.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2004,3638.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2004,3475.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2004,3573.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2004,4293.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2004,4369.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2004,4501.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2004,5141.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2004,4403.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2004,4445.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2004,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2004,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2004,3606.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2004,3679.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2004,3645.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2004,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2004,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2004,3986.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2004,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2004,3622.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2004,4362.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2004,3881.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2004,3307.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2004,4177.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2004,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2004,3540.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2004,3028.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2004,3033.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2004,2848.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2004,2977.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2004,3040.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2004,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2004,2934.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2004,2851.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2004,2844.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2004,2869.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2004,2784.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2004,2771.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2004,2840.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2004,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2004,2858.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2004,2466.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2004,
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2004,2617.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2004,2791.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2004,3007.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2004,2781.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2004,2883.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2004,2597.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2004,2941.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2004,2778.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2004,2735.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2004,2645.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2004,3040.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2004,2970.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2004,3359.0
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2004,3327.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2004,3295.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2004,2919.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2004,3065.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2004,3162.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2004,3117.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2004,3403.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2004,3727.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2004,4397.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2004,4567.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2004,4079.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2004,4529.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2004,3782.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2004,4156.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2004,4560.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2004,3514.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2004,3261.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2004,3083.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2004,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2004,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2004,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2004,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2004,2685.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2004,2359.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2004,2789.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2004,2732.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2004,2782.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2004,2755.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2004,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2004,2587.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2004,3136.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2004,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2004,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2004,2980.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2004,3391.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2004,2745.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2004,3012.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2004,2737.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2004,3558.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2004,3200.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2004,2906.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2004,3512.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2004,3226.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2004,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2004,3218.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2004,3389.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2004,3959.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2005,4503.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2005,3852.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2005,4610.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2005,4396.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2005,4337.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2005,4591.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2005,3711.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2005,4178.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2005,3680.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2005,4083.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2005,3882.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2005,3945.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2005,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2005,4142.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2005,3945.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2005,4016.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2005,4582.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2005,5190.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2005,4638.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2005,6055.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2005,4637.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2005,4239.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2005,4120.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2005,4961.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2005,5591.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2005,5510.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2005,4245.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2005,4286.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2005,5129.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2005,5533.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2005,4486.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2005,3895.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2005,4312.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2005,4494.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2005,3879.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2005,3743.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2005,3733.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2005,4634.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2005,4547.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2005,5037.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2005,5727.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2005,4406.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2005,4671.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2005,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2005,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2005,3793.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2005,3696.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2005,3884.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2005,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2005,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2005,4016.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2005,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2005,4499.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2005,4468.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2005,4075.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2005,3822.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2005,4412.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2005,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2005,4000.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2005,3274.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2005,3363.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2005,3257.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2005,3125.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2005,3112.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2005,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2005,3068.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2005,3177.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2005,2954.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2005,3219.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2005,3219.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2005,3150.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2005,3339.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2005,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2005,3171.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2005,2982.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2005,
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2005,2921.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2005,3177.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2005,3232.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2005,3062.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2005,3231.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2005,2874.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2005,3257.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2005,3243.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2005,3112.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2005,3138.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2005,3270.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2005,3098.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2005,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2005,3506.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2005,3682.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2005,3133.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2005,3214.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2005,3514.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2005,3395.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2005,3894.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2005,3792.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2005,4224.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2005,4577.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2005,4523.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2005,4898.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2005,4246.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2005,4333.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2005,4879.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2005,3863.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2005,3506.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2005,3252.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2005,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2005,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2005,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2005,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2005,2800.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2005,2312.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2005,2779.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2005,2975.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2005,2908.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2005,3084.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2005,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2005,3048.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2005,3471.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2005,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2005,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2005,3059.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2005,3771.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2005,3029.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2005,2961.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2005,3113.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2005,3772.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2005,3587.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2005,3185.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2005,3877.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2005,3558.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2005,3479.0
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2005,3022.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2005,3567.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2005,4232.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2006,4555.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2006,4252.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2006,4858.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2006,4967.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2006,4602.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2006,4627.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2006,4254.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2006,4453.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2006,3972.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2006,4251.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2006,4295.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2006,4246.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2006,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2006,4431.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2006,4436.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2006,4339.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2006,4991.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2006,5795.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2006,4916.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2006,7015.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2006,5121.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2006,4518.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2006,4415.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2006,5299.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2006,6135.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2006,6249.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2006,4345.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2006,4691.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2006,5252.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2006,5576.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2006,4701.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2006,4024.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2006,4536.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2006,5049.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2006,4027.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2006,3918.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2006,4012.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2006,4760.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2006,5043.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2006,5224.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2006,6164.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2006,4966.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2006,4673.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2006,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2006,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2006,4152.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2006,3932.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2006,4244.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2006,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2006,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2006,4239.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2006,
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2006,4408.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2006,4826.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2006,4543.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2006,4071.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2006,5056.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2006,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2006,4427.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2006,3665.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2006,3501.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2006,3433.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2006,3444.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2006,3448.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2006,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2006,3303.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2006,3429.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2006,3542.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2006,3502.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2006,3439.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2006,3263.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2006,3532.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2006,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2006,3243.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2006,3225.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2006,
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2006,3102.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2006,3381.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2006,3338.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2006,3411.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2006,3630.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2006,3194.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2006,3387.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2006,3560.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2006,3367.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2006,3293.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2006,3490.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2006,3398.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2006,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2006,3938.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2006,3613.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2006,3459.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2006,3506.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2006,3712.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2006,3568.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2006,4033.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2006,4110.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2006,4295.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2006,4762.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2006,4605.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2006,4978.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2006,4717.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2006,4885.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2006,5246.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2006,4006.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2006,3843.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2006,3600.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2006,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2006,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2006,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2006,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2006,3153.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2006,2777.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2006,3039.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2006,3071.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2006,3095.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2006,3460.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2006,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2006,3207.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2006,3446.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2006,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2006,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2006,3225.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2006,3773.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2006,2967.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2006,3545.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2006,3303.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2006,3927.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2006,3833.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2006,3382.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2006,3953.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2006,3744.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2006,3542.0
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2006,3388.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2006,3945.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2006,4416.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2007,4807.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2007,4394.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2007,4922.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2007,5027.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2007,4747.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2007,4876.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2007,4240.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2007,4309.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2007,3942.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2007,4261.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2007,4138.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2007,4083.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2007,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2007,4490.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2007,4555.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2007,4523.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2007,4953.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2007,5790.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2007,5284.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2007,7084.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2007,5328.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2007,4678.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2007,4557.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2007,5483.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2007,6237.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2007,6274.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2007,4619.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2007,4785.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2007,5663.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2007,5916.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2007,4884.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2007,3914.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2007,4383.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2007,4815.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2007,4104.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2007,4003.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2007,4001.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2007,5068.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2007,5125.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2007,5401.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2007,6191.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2007,5243.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2007,5066.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2007,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2007,4271.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2007,4075.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2007,3957.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2007,4242.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2007,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2007,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2007,4364.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2007,4092.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2007,4403.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2007,4889.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2007,4675.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2007,4227.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2007,5254.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2007,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2007,4478.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2007,3428.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2007,3336.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2007,3343.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2007,3303.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2007,3299.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2007,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2007,3291.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2007,3400.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2007,3379.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2007,3317.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2007,3278.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2007,3193.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2007,3368.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2007,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2007,3311.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2007,3076.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2007,3228.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2007,3086.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2007,3212.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2007,3250.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2007,3279.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2007,3375.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2007,3059.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2007,3225.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2007,3232.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2007,3253.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2007,3273.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2007,3303.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2007,3290.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2007,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2007,3745.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2007,3558.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2007,3315.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2007,3478.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2007,3691.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2007,3568.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2007,3861.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2007,3975.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2007,4397.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2007,4526.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2007,4612.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2007,5061.0
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2007,4474.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2007,5124.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2007,5432.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2007,4088.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2007,3754.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2007,3498.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2007,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2007,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2007,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2007,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2007,2985.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2007,2796.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2007,3065.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2007,3064.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2007,2992.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2007,3375.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2007,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2007,3144.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2007,3432.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2007,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2007,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2007,3225.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2007,3640.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2007,3076.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2007,3470.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2007,3382.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2007,3815.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2007,3708.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2007,3318.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2007,3829.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2007,3752.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2007,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2007,3632.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2007,3848.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2007,4391.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2008,4544.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2008,3782.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2008,4401.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2008,4992.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2008,4263.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2008,4465.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2008,3723.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2008,3940.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2008,3503.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2008,3916.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2008,3820.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2008,3809.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2008,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2008,3978.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2008,4050.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2008,4066.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2008,4759.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2008,5880.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2008,4746.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2008,6965.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2008,5030.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2008,4187.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2008,4092.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2008,5196.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2008,6973.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2008,6439.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2008,4223.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2008,4227.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2008,5740.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2008,5880.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2008,4437.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2008,3508.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2008,4285.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2008,4604.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2008,3607.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2008,3554.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2008,3360.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2008,4555.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2008,4498.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2008,4971.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2008,6243.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2008,4731.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2008,4756.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2008,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2008,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2008,3704.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2008,3495.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2008,4114.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2008,
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2008,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2008,4302.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2008,4180.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2008,3721.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2008,4683.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2008,4391.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2008,3655.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2008,5154.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2008,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2008,4104.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2008,3012.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2008,3078.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2008,3036.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2008,2911.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2008,2872.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2008,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2008,2842.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2008,3050.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2008,2973.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2008,3037.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2008,2822.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2008,2793.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2008,3161.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2008,
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2008,2910.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2008,2701.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2008,2802.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2008,2817.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2008,2962.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2008,2919.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2008,
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2008,2837.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2008,2494.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2008,2752.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2008,2804.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2008,2807.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2008,2770.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2008,2942.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2008,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2008,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2008,3539.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2008,3131.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2008,2832.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2008,3010.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2008,3226.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2008,3114.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2008,3322.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2008,3716.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2008,4352.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2008,4773.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2008,
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2008,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2008,4396.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2008,5250.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2008,6086.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2008,3678.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2008,3411.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2008,3093.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2008,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2008,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2008,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2008,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2008,2587.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2008,2171.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2008,2656.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2008,2753.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2008,2566.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2008,3063.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2008,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2008,2733.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2008,3080.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2008,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2008,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2008,2688.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2008,3435.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2008,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2008,
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2008,2893.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2008,3562.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2008,3381.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2008,2865.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2008,
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2008,3504.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2008,2853.0
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2008,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2008,3512.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2008,4083.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2009,4239.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2009,3601.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2009,4101.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2009,4915.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2009,4006.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2009,4091.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2009,3541.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2009,3743.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2009,3316.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2009,3988.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2009,3497.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2009,3477.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2009,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2009,3854.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2009,3834.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2009,3950.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2009,4622.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2009,6053.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2009,4537.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2009,6523.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2009,4808.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2009,4026.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2009,4035.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2009,4853.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2009,6344.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2009,6123.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2009,4018.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2009,4009.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2009,5223.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2009,5727.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2009,4176.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2009,3278.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2009,4059.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2009,4239.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2009,3563.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2009,3360.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2009,3181.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2009,4198.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2009,4434.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2009,4731.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2009,6275.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2009,4629.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2009,4473.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2009,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2009,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2009,3667.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2009,3435.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2009,3916.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2009,2966.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2009,3860.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2009,4189.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2009,4248.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2009,3587.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2009,4610.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2009,4216.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2009,3507.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2009,5240.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2009,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2009,3880.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2009,2930.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2009,2792.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2009,2705.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2009,2608.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2009,2644.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2009,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2009,2584.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2009,2904.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2009,2695.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2009,2885.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2009,2553.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2009,2545.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2009,2612.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2009,3420.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2009,2760.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2009,2457.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2009,2537.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2009,2729.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2009,2636.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2009,2544.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2009,2498.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2009,2533.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2009,2113.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2009,2512.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2009,2628.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2009,2551.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2009,2507.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2009,2596.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2009,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2009,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2009,3250.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2009,3165.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2009,2539.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2009,2728.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2009,2986.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2009,2890.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2009,3204.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2009,3496.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2009,4049.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2009,4643.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2009,4146.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2009,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2009,4223.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2009,5425.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2009,5419.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2009,3473.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2009,3317.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2009,3054.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2009,4103.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2009,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2009,3088.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2009,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2009,2351.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2009,2028.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2009,2559.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2009,2558.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2009,2434.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2009,2603.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2009,3109.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2009,2545.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2009,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2009,2914.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2009,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2009,2584.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2009,3210.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2009,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2009,
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2009,2550.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2009,3460.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2009,3187.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2009,2706.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2009,
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2009,3283.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2009,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2009,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2009,3337.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2009,4191.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2010,4113.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2010,3489.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2010,4272.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2010,4653.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2010,3953.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2010,4183.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2010,3352.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2010,3588.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2010,3123.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2010,4010.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2010,3375.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2010,3595.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2010,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2010,3789.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2010,3677.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2010,3817.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2010,4253.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2010,6754.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2010,4514.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2010,6435.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2010,4667.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2010,3986.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2010,3850.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2010,4922.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2010,6001.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2010,5785.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2010,3950.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2010,3903.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2010,4933.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2010,5374.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2010,4200.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2010,3053.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2010,3922.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2010,4280.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2010,3315.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2010,3285.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2010,3078.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2010,4210.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2010,4303.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2010,4524.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2010,5786.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2010,4408.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2010,4413.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2010,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2010,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2010,3573.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2010,3323.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2010,3879.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2010,2874.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2010,4081.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2010,4065.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2010,4298.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2010,3397.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2010,4344.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2010,3866.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2010,3253.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2010,5165.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2010,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2010,3928.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2010,2711.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2010,2672.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2010,2541.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2010,2549.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2010,2518.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2010,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2010,2415.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2010,2687.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2010,2521.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2010,2493.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2010,2463.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2010,2359.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2010,2385.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2010,3457.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2010,2439.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2010,2204.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2010,2273.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2010,2593.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2010,2572.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2010,2402.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2010,2262.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2010,2388.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2010,1870.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2010,2361.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2010,2329.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2010,2464.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2010,2133.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2010,2413.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2010,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2010,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2010,
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2010,2852.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2010,2496.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2010,2676.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2010,2780.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2010,2692.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2010,2980.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2010,3434.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2010,3771.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2010,4395.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2010,4248.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2010,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2010,4309.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2010,5075.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2010,5143.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2010,3245.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2010,3224.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2010,2778.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2010,3923.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2010,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2010,3058.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2010,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2010,2108.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2010,1707.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2010,2377.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2010,2305.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2010,2203.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2010,2308.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2010,3174.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2010,2479.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2010,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2010,2926.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2010,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2010,2485.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2010,2990.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2010,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2010,2232.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2010,2452.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2010,3283.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2010,3149.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2010,2512.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2010,
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2010,3263.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2010,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2010,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2010,3360.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2010,4381.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2011,3850.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2011,3215.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2011,4043.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2011,4539.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2011,3604.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2011,3921.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2011,3104.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2011,3365.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2011,2894.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2011,3847.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2011,3206.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2011,3241.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2011,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2011,3506.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2011,3420.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2011,3595.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2011,4130.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2011,6233.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2011,4094.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2011,5998.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2011,4349.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2011,3525.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2011,3515.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2011,4543.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2011,5836.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2011,5623.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2011,3640.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2011,3488.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2011,4675.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2011,5011.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2011,3849.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2011,2868.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2011,3662.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2011,3895.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2011,2980.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2011,2896.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2011,2842.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2011,3919.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2011,3898.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2011,4068.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2011,5611.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2011,4085.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2011,3951.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2011,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2011,
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2011,3326.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2011,3011.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2011,3572.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2011,2612.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2011,3903.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2011,3773.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2011,4108.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2011,3198.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2011,4178.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2011,3703.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2011,2785.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2011,4802.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2011,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2011,3733.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2011,2471.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2011,2350.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2011,2246.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2011,2270.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2011,2190.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2011,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2011,2173.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2011,2427.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2011,2249.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2011,2255.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2011,2187.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2011,2029.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2011,2043.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2011,3160.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2011,2169.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2011,1956.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2011,2215.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2011,2166.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2011,2092.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2011,2151.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2011,1980.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2011,1951.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2011,1578.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2011,1982.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2011,2027.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2011,2077.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2011,1861.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2011,1991.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2011,2208.0
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2011,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2011,2774.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2011,2509.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2011,2143.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2011,2320.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2011,2477.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2011,2390.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2011,2666.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2011,3187.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2011,3746.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2011,4335.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2011,4039.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2011,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2011,3930.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2011,4405.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2011,4952.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2011,3101.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2011,2922.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2011,2555.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2011,3923.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2011,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2011,2808.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2011,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2011,1797.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2011,1400.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2011,2178.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2011,1951.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2011,1835.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2011,2085.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2011,2962.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2011,2320.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2011,2213.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2011,2650.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2011,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2011,2134.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2011,2696.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2011,1849.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2011,1909.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2011,2103.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2011,3061.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2011,2966.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2011,2451.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2011,3551.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2011,3057.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2011,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2011,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2011,3100.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2011,3939.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2012,3519.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2012,2721.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2012,3715.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2012,4007.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2012,3230.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2012,3517.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2012,2816.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2012,2957.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2012,2379.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2012,3428.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2012,2825.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2012,2831.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2012,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2012,3061.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2012,2991.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2012,3111.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2012,3605.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2012,5415.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2012,3535.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2012,5452.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2012,3851.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2012,3095.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2012,3120.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2012,4003.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2012,5158.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2012,5021.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2012,3119.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2012,3235.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2012,4289.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2012,4471.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2012,3300.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2012,2449.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2012,3134.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2012,3412.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2012,2593.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2012,2456.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2012,2608.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2012,3258.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2012,3417.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2012,3705.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2012,4908.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2012,3589.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2012,3588.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2012,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2012,3301.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2012,2919.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2012,2573.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2012,3111.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2012,2255.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2012,3479.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2012,3214.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2012,3658.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2012,2962.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2012,3767.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2012,3254.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2012,2477.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2012,4098.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2012,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2012,3361.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2012,2193.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2012,1967.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2012,2002.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2012,1892.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2012,1941.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2012,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2012,1783.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2012,2046.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2012,1921.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2012,1949.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2012,1779.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2012,1681.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2012,1956.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2012,2725.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2012,1718.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2012,1674.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2012,1792.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2012,1904.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2012,1875.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2012,1901.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2012,1722.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2012,1707.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2012,1388.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2012,1700.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2012,1759.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2012,1764.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2012,1603.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2012,1751.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2012,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2012,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2012,2314.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2012,2150.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2012,1952.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2012,1910.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2012,2176.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2012,2037.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2012,2244.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2012,2960.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2012,3299.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2012,3789.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2012,3723.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2012,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2012,3501.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2012,4032.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2012,4451.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2012,2664.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2012,2519.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2012,2234.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2012,3608.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2012,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2012,2472.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2012,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2012,1563.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2012,1084.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2012,1832.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2012,1707.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2012,1532.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2012,1850.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2012,2661.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2012,1967.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2012,1779.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2012,2172.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2012,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2012,1685.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2012,2373.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2012,1579.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2012,1576.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2012,1701.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2012,2652.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2012,2574.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2012,1986.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2012,3206.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2012,2817.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2012,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2012,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2012,2703.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2012,3640.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2013,3397.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2013,2897.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2013,3358.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2013,3969.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2013,3297.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2013,3445.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2013,2752.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2013,2918.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2013,2267.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2013,3428.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2013,2710.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2013,2800.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2013,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2013,2821.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2013,2696.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2013,2847.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2013,3478.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2013,4973.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2013,3398.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2013,5440.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2013,3713.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2013,2910.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2013,2948.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2013,3873.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2013,5077.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2013,4482.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2013,2971.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2013,3182.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2013,3804.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2013,4236.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2013,3123.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2013,2381.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2013,3011.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2013,3099.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2013,2386.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2013,2317.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2013,2306.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2013,3250.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2013,3234.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2013,3421.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2013,4470.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2013,3403.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2013,3353.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2013,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2013,2845.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2013,2867.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2013,2283.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2013,3079.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2013,2127.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2013,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2013,3102.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2013,3420.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2013,2821.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2013,3430.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2013,3168.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2013,2481.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2013,4101.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2013,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2013,3141.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2013,2078.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2013,1870.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2013,1850.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2013,1897.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2013,1933.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2013,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2013,1749.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2013,1883.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2013,1804.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2013,1881.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2013,1719.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2013,1603.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2013,1741.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2013,2879.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2013,1647.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2013,1577.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2013,1775.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2013,1744.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2013,1731.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2013,1720.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2013,1628.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2013,1490.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2013,1261.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2013,1495.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2013,1646.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2013,1961.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2013,1482.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2013,1707.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2013,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2013,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2013,2398.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2013,2131.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2013,1613.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2013,
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2013,2049.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2013,2025.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2013,2246.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2013,2570.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2013,3085.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2013,3468.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2013,3259.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2013,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2013,3455.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2013,3736.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2013,
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2013,2623.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2013,2287.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2013,1975.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2013,3607.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2013,2377.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2013,2531.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2013,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2013,1321.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2013,957.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2013,1784.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2013,1492.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2013,1457.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2013,1758.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2013,2578.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2013,1855.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2013,
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2013,2238.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2013,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2013,1447.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2013,2161.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2013,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2013,1363.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2013,1546.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2013,2597.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2013,2625.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2013,1950.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2013,2775.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2013,2787.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2013,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2013,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2013,
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2013,3434.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2014,3369.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2014,2697.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2014,3541.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2014,3902.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2014,3199.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2014,3419.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2014,2731.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2014,2804.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2014,2190.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2014,3307.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2014,2564.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2014,2529.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2014,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2014,2758.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2014,2686.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2014,2831.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2014,3595.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2014,4765.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2014,3458.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2014,5578.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2014,3819.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2014,2876.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2014,2863.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2014,3989.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2014,4898.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2014,4459.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2014,3006.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2014,2839.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2014,3765.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2014,4186.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2014,3015.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2014,2200.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2014,2879.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2014,3150.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2014,2235.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2014,2161.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2014,2159.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2014,3095.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2014,3479.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2014,3503.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2014,4527.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2014,3417.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2014,3317.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2014,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2014,2731.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2014,2634.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2014,2174.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2014,2951.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2014,1770.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2014,
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2014,3078.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2014,3477.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2014,2658.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2014,3307.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2014,3045.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2014,2166.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2014,3865.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2014,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2014,3191.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2014,1656.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2014,1632.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2014,1699.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2014,1503.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2014,1572.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2014,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2014,1481.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2014,1676.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2014,1641.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2014,1566.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2014,1508.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2014,1420.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2014,1438.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2014,2645.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2014,1359.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2014,1518.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2014,1536.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2014,1568.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2014,1452.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2014,1512.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2014,1398.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2014,1303.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2014,1061.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2014,1339.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2014,1416.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2014,1686.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2014,1245.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2014,1406.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2014,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2014,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2014,2196.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2014,1882.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2014,1626.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2014,1848.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2014,1729.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2014,1731.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2014,2071.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2014,2472.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2014,2939.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2014,3425.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2014,3253.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2014,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2014,3211.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2014,3864.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2014,
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2014,2456.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2014,2107.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2014,1627.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2014,3220.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2014,2607.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2014,2425.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2014,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2014,1193.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2014,912.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2014,1515.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2014,1322.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2014,1271.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2014,1445.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2014,2299.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2014,1667.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2014,1451.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2014,2210.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2014,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2014,1359.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2014,1928.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2014,1203.0
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2014,1225.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2014,1330.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2014,2446.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2014,2487.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2014,1775.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2014,2634.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2014,2612.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2014,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2014,1991.0
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2014,2433.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2014,3426.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2015,3682.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2015,3000.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2015,3714.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2015,4326.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2015,3476.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2015,3716.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2015,2697.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2015,2966.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2015,2355.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2015,3349.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2015,2592.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2015,2725.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2015,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2015,2943.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2015,2941.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2015,3083.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2015,3756.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2015,5035.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2015,3460.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2015,5843.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2015,4097.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2015,2985.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2015,2990.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2015,4024.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2015,5036.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2015,4545.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2015,2988.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2015,3055.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2015,3826.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2015,4278.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2015,3163.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2015,2294.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2015,3035.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2015,3275.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2015,2140.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2015,2198.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2015,2236.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2015,3343.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2015,3629.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2015,3782.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2015,4460.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2015,3643.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2015,3353.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2015,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2015,2770.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2015,2681.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2015,2214.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2015,2930.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2015,1921.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2015,3312.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2015,3268.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2015,3540.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2015,2729.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2015,3433.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2015,3022.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2015,2256.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2015,3995.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2015,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2015,3310.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2015,1668.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2015,1721.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2015,1665.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2015,1581.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2015,1638.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2015,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2015,1555.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2015,1739.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2015,1659.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2015,1611.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2015,1481.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2015,1377.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2015,1359.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2015,2576.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2015,1421.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2015,1431.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2015,1468.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2015,1656.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2015,1512.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2015,1539.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2015,1354.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2015,1364.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2015,1092.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2015,1339.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2015,1402.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2015,1582.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2015,1239.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2015,1460.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2015,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2015,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2015,2187.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2015,1936.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2015,1641.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2015,1812.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2015,1826.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2015,1733.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2015,2103.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2015,2313.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2015,2929.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2015,3350.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2015,3138.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2015,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2015,3291.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2015,3686.0
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2015,4096.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2015,2299.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2015,2162.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2015,1684.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2015,3280.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2015,2672.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2015,2495.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2015,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2015,1195.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2015,925.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2015,1594.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2015,1302.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2015,1357.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2015,1435.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2015,
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2015,1744.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2015,1475.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2015,2154.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2015,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2015,1314.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2015,1955.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2015,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2015,1145.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2015,1355.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2015,2545.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2015,2518.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2015,1617.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2015,2569.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2015,2583.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2015,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2015,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2015,2431.0
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2015,3262.0
+Spain,Madrid,Centro,011 Palacio,Palacio,,,,2016,3731.0
+Spain,Madrid,Centro,012 Embajadores,Lavapiés-Embajadores,,,,2016,3240.0
+Spain,Madrid,Centro,013 Cortes,Huertas-Cortes,,,,2016,3616.0
+Spain,Madrid,Centro,014 Justicia,Chueca-Justicia,,,,2016,4612.0
+Spain,Madrid,Centro,015 Universidad,Malasaña-Universidad,,,,2016,3845.0
+Spain,Madrid,Centro,016 Sol,Sol,,,,2016,3788.0
+Spain,Madrid,Arganzuela,021 Imperial,Imperial,,,,2016,2920.0
+Spain,Madrid,Arganzuela,022 Las Acacias,Acacias,,,,2016,3193.0
+Spain,Madrid,Arganzuela,023 La Chopera,Chopera,,,,2016,2649.0
+Spain,Madrid,Arganzuela,024 Legazpi,Legazpi,,,,2016,3395.0
+Spain,Madrid,Arganzuela,025 Delicias,Delicias,,,,2016,3025.0
+Spain,Madrid,Arganzuela,026 Palos de Moguer,Palos de Moguer,,,,2016,2976.0
+Spain,Madrid,Arganzuela,027 Atocha,Atocha,,,,2016,
+Spain,Madrid,Retiro,031 Pacífico,Pacífico,,,,2016,3084.0
+Spain,Madrid,Retiro,032 Adelfas,Adelfas,,,,2016,3180.0
+Spain,Madrid,Retiro,033 Estrella,Estrella,,,,2016,3003.0
+Spain,Madrid,Retiro,034 Ibiza,Ibiza,,,,2016,3939.0
+Spain,Madrid,Retiro,035 Jerónimos,Jerónimos,,,,2016,5246.0
+Spain,Madrid,Retiro,036 Niño Jesús,Niño Jesús,,,,2016,3586.0
+Spain,Madrid,Salamanca,041 Recoletos,Recoletos,,,,2016,6144.0
+Spain,Madrid,Salamanca,042 Goya,Goya,,,,2016,4213.0
+Spain,Madrid,Salamanca,043 Fuente del Berro,Fuente del Berro,,,,2016,3156.0
+Spain,Madrid,Salamanca,044 Guindalera,Guindalera,,,,2016,3055.0
+Spain,Madrid,Salamanca,045 Lista,Lista,,,,2016,4465.0
+Spain,Madrid,Salamanca,046 Castellana,Castellana,,,,2016,5445.0
+Spain,Madrid,Chamartín,051 El Viso,El Viso,,,,2016,4919.0
+Spain,Madrid,Chamartín,052 Prosperidad,Prosperidad,,,,2016,3302.0
+Spain,Madrid,Chamartín,053 Ciudad Jardín,Ciudad Jardín,,,,2016,3416.0
+Spain,Madrid,Chamartín,054 Hispanoamérica,Bernabéu-Hispanoamérica,,,,2016,4047.0
+Spain,Madrid,Chamartín,055 Nueva España,Nueva España,,,,2016,4416.0
+Spain,Madrid,Chamartín,056 Castilla,Castilla,,,,2016,3165.0
+Spain,Madrid,Tetuán,061 Bellas Vistas,Bellas Vistas,,,,2016,2426.0
+Spain,Madrid,Tetuán,062 Cuatro Caminos,Cuatro Caminos,,,,2016,3296.0
+Spain,Madrid,Tetuán,063 Castillejos,Cuzco-Castillejos,,,,2016,3476.0
+Spain,Madrid,Tetuán,064 Almenara,Ventilla-Almenara,,,,2016,2407.0
+Spain,Madrid,Tetuán,065 Valdeacederas,Valdeacederas,,,,2016,2262.0
+Spain,Madrid,Tetuán,066 Berruguete,Berruguete,,,,2016,2394.0
+Spain,Madrid,Chamberí,071 Gaztambide,Gaztambide,,,,2016,3649.0
+Spain,Madrid,Chamberí,072 Arapiles,Arapiles,,,,2016,3885.0
+Spain,Madrid,Chamberí,073 Trafalgar,Trafalgar,,,,2016,4047.0
+Spain,Madrid,Chamberí,074 Almagro,Almagro,,,,2016,4989.0
+Spain,Madrid,Chamberí,075 Ríos Rosas,Nuevos Ministerios-Ríos Rosas,,,,2016,3920.0
+Spain,Madrid,Chamberí,076 Vallehermoso,Vallehermoso,,,,2016,3542.0
+Spain,Madrid,Fuencarral-El Pardo,081 El Pardo,El Pardo,,,,2016,
+Spain,Madrid,Fuencarral-El Pardo,082 Fuentelarreina,Fuentelarreina,,,,2016,3004.0
+Spain,Madrid,Fuencarral-El Pardo,083 Peña Grande,Peñagrande,,,,2016,2751.0
+Spain,Madrid,Fuencarral-El Pardo,084 El Pilar,Pilar,,,,2016,2494.0
+Spain,Madrid,Fuencarral-El Pardo,085 La Paz,La Paz,,,,2016,2960.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,Tres Olivos,40.499431,-3.69177,2016,1872.0
+Spain,Madrid,Fuencarral-El Pardo,086 Valverde,Valverde,PAU Las Tablas,40.50596,-3.670523,2016,3478.0
+Spain,Madrid,Fuencarral-El Pardo,087 Mirasierra,Mirasierra,,,,2016,3401.0
+Spain,Madrid,Fuencarral-El Pardo,088 El Goloso,El Goloso,,,,2016,3679.0
+Spain,Madrid,Moncloa-Aravaca,091 Casa de Campo,Casa de Campo,,,,2016,3012.0
+Spain,Madrid,Moncloa-Aravaca,092 Argüelles,Argüelles,,,,2016,3944.0
+Spain,Madrid,Moncloa-Aravaca,093 Ciudad Universitaria,Ciudad Universitaria,,,,2016,3055.0
+Spain,Madrid,Moncloa-Aravaca,094 Valdezarza,Valdezarza,,,,2016,2367.0
+Spain,Madrid,Moncloa-Aravaca,095 Valdemarín,Valdemarín,,,,2016,3951.0
+Spain,Madrid,Moncloa-Aravaca,096 El Plantío,El Plantío,,,,2016,
+Spain,Madrid,Moncloa-Aravaca,097 Aravaca,Aravaca,,,,2016,3365.0
+Spain,Madrid,Latina,101 Los Cármenes,Los Cármenes,,,,2016,1884.0
+Spain,Madrid,Latina,102 Puerta del Ángel,Puerta del Angel,,,,2016,1955.0
+Spain,Madrid,Latina,103 Lucero,Lucero,,,,2016,1734.0
+Spain,Madrid,Latina,104 Aluche,Aluche,,,,2016,1676.0
+Spain,Madrid,Latina,105 Campamento,Campamento,,,,2016,1770.0
+Spain,Madrid,Latina,106 Cuatro Vientos,Cuatro Vientos,,,,2016,
+Spain,Madrid,Latina,107 Las Águilas,Las Águilas,,,,2016,1697.0
+Spain,Madrid,Carabanchel,111 Comillas,Comillas,,,,2016,1805.0
+Spain,Madrid,Carabanchel,112 Opañel,Opañel,,,,2016,1721.0
+Spain,Madrid,Carabanchel,113 San Isidro,San Isidro,,,,2016,1665.0
+Spain,Madrid,Carabanchel,114 Vista Alegre,Vista Alegre,,,,2016,1593.0
+Spain,Madrid,Carabanchel,115 Puerta Bonita,Puerta Bonita,,,,2016,1510.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,,,,2016,1480.0
+Spain,Madrid,Carabanchel,116 Buenavista,Buenavista,PAU de Carabanchel,40.364258,-3.761437,2016,2622.0
+Spain,Madrid,Carabanchel,117 Abrantes,Abrantes,,,,2016,1466.0
+Spain,Madrid,Usera,121 Orcasitas,Orcasitas,,,,2016,1415.0
+Spain,Madrid,Usera,122 Orcasur,12 de Octubre-Orcasur,,,,2016,1421.0
+Spain,Madrid,Usera,123 San Fermín,San Fermín,,,,2016,1459.0
+Spain,Madrid,Usera,124 Almendrales,Almendrales,,,,2016,1642.0
+Spain,Madrid,Usera,125 Moscardó,Moscardó,,,,2016,1692.0
+Spain,Madrid,Usera,126 Zofío,Zofío,,,,2016,1380.0
+Spain,Madrid,Usera,127 Pradolongo,Pradolongo,,,,2016,1449.0
+Spain,Madrid,Puente de Vallecas,131 Entrevías,Entrevías,,,,2016,1118.0
+Spain,Madrid,Puente de Vallecas,132 San Diego,San Diego,,,,2016,1370.0
+Spain,Madrid,Puente de Vallecas,133 Palomeras Bajas,Palomeras Bajas,,,,2016,1469.0
+Spain,Madrid,Puente de Vallecas,134 Palomeras Sureste,Palomeras Sureste,,,,2016,1450.0
+Spain,Madrid,Puente de Vallecas,135 Portazgo,Portazgo,,,,2016,1316.0
+Spain,Madrid,Puente de Vallecas,136 Numancia,Numancia,,,,2016,1503.0
+Spain,Madrid,Moratalaz,141 Pavones,Pavones,,,,2016,
+Spain,Madrid,Moratalaz,142 Horcajo,Horcajo,,,,2016,
+Spain,Madrid,Moratalaz,143 Marroquina,Marroquina,,,,2016,2398.0
+Spain,Madrid,Moratalaz,144 Media Legua,Media Legua,,,,2016,2133.0
+Spain,Madrid,Moratalaz,145 Fontarrón,Fontarrón,,,,2016,1729.0
+Spain,Madrid,Moratalaz,146 Vinateros,Vinateros,,,,2016,1952.0
+Spain,Madrid,Ciudad Lineal,151 Ventas,Ventas,,,,2016,1929.0
+Spain,Madrid,Ciudad Lineal,152 Pueblo Nuevo,Pueblo Nuevo,,,,2016,1839.0
+Spain,Madrid,Ciudad Lineal,153 Quintana,Quintana,,,,2016,2174.0
+Spain,Madrid,Ciudad Lineal,154 Concepción,Concepción,,,,2016,2464.0
+Spain,Madrid,Ciudad Lineal,155 San Pascual,San Pascual,,,,2016,3032.0
+Spain,Madrid,Ciudad Lineal,156 San Juan Bautista,San Juan Bautista,,,,2016,3800.0
+Spain,Madrid,Ciudad Lineal,157 Colina,Colina,,,,2016,3158.0
+Spain,Madrid,Ciudad Lineal,158 Atalaya,Atalaya,,,,2016,
+Spain,Madrid,Ciudad Lineal,159 Costillares,Costillares,,,,2016,3386.0
+Spain,Madrid,Hortaleza,161 Palomas,Palomas,,,,2016,
+Spain,Madrid,Hortaleza,162 Piovera,Conde Orgaz-Piovera,,,,2016,4281.0
+Spain,Madrid,Hortaleza,163 Canillas,Canillas,,,,2016,2521.0
+Spain,Madrid,Hortaleza,164 Pinar del Rey,Pinar del Rey,,,,2016,2178.0
+Spain,Madrid,Hortaleza,165 Apóstol Santiago,Apóstol Santiago,,,,2016,2074.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,PAU Sanchinarro,40.493694,-3.660339,2016,3472.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Valdebebas – Valdefuentes,40.482496,-3.616277,2016,
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,Virgen del Cortijo – Manoteras,40.487688,-3.660896,2016,2418.0
+Spain,Madrid,Hortaleza,166 Valdefuentes,Valdefuentes,El Encinar de los Reyes,40.507724,-3.644881,2016,
+Spain,Madrid,Villaverde,171 San Andrés,San Andrés,,,,2016,1291.0
+Spain,Madrid,Villaverde,172 San Cristóbal,San Cristóbal,,,,2016,961.0
+Spain,Madrid,Villaverde,173 Butarque,Butarque,,,,2016,1772.0
+Spain,Madrid,Villaverde,174 Los Rosales,Los Rosales,,,,2016,1500.0
+Spain,Madrid,Villaverde,175 Los Ángeles,Los Ángeles,,,,2016,1404.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,,,,2016,1543.0
+Spain,Madrid,Villa de Vallecas,181 Casco Histórico de Vallecas,Casco Histórico de Vallecas,Ensanche de Vallecas – Valdecarros,40.368166,-3.610482,2016,2322.0
+Spain,Madrid,Villa de Vallecas,182 Santa Eugenia,Santa Eugenia,,,,2016,1629.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,,,,2016,1545.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,Valdebernardo – Valderribas,40.401672,-3.621428,2016,2333.0
+Spain,Madrid,Vicálvaro,191 Casco Histórico de Vicálvaro,Casco Histórico de Vicálvaro,El Cañaveral - Los Berrocales,40.401441,-3.552554,2016,
+Spain,Madrid,Vicálvaro,192 Ambroz,Ambroz,,,,2016,1408.0
+Spain,Madrid,San Blas-Canillejas,201 Simancas,Simancas,,,,2016,2153.0
+Spain,Madrid,San Blas-Canillejas,202 Hellín,Hellín,,,,2016,
+Spain,Madrid,San Blas-Canillejas,203 Amposta,Amposta,,,,2016,1336.0
+Spain,Madrid,San Blas-Canillejas,204 Arcos,Arcos,,,,2016,1557.0
+Spain,Madrid,San Blas-Canillejas,205 Rosas,Rosas,,,,2016,2574.0
+Spain,Madrid,San Blas-Canillejas,206 Rejas,Rejas,,,,2016,2505.0
+Spain,Madrid,San Blas-Canillejas,207 Canillejas,Canillejas,,,,2016,1748.0
+Spain,Madrid,San Blas-Canillejas,208 El Salvador,Salvador,,,,2016,2880.0
+Spain,Madrid,Barajas,211 Alameda de Osuna,Alameda de Osuna,,,,2016,2602.0
+Spain,Madrid,Barajas,212 Aeropuerto,Aeropuerto,,,,2016,
+Spain,Madrid,Barajas,213 Casco Histórico de Barajas,Casco Histórico de Barajas,,,,2016,
+Spain,Madrid,Barajas,214 Timón,Timón,,,,2016,
+Spain,Madrid,Barajas,215 Corralejos,Campo de las Naciones-Corralejos,,,,2016,3331.0
